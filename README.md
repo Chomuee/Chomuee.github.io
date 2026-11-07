@@ -1,5 +1,5 @@
-# Chomuee.github.io
-An About Me
+# Mamutuk Charles Theodore Ison
+My professional portfolio
 
 ## Projects
 ### Variable Power Supply
