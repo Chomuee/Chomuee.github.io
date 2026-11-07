@@ -6,11 +6,11 @@ An About Me
 - powering
 
 
-# Education
+## Education
 - Singapore Polytechnic
 - Kent Ridge Secondary School
 
-# Experience
+## Experience
 - STEM Educator @ Nullspace
 - Co-Founder & Mechatronics Lead @ Zhetalis
 
